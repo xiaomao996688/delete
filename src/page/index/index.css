@@ -1,0 +1,15 @@
+/*
+* @Author: Jacky
+* @Date:   2018-07-26 00:50:20
+* @Last Modified by:   Jacky
+* @Last Modified time: 2018-07-27 12:45:01
+*/
+html{
+	width: 100%;
+	height: 100%;
+}
+body{
+	background: url('../../image/banner/banner1.jpg') no-repeat;
+	width: 100%;
+	height: 100%;
+}
